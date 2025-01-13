@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 bitnami/clickhouse:latest
 grafana/grafana
+docker pull faucet/python3
