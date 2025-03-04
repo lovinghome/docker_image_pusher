@@ -7,3 +7,4 @@ xhofe/alist:latest
 bitnami/clickhouse:latest
 grafana/grafana
 faucet/python3:11.0.0
+bitnami/kafka:3.7.2
